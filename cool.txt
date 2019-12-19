@@ -3,6 +3,7 @@ kuwu  view
 test
 test1
 test2
+indigo
 test add1
 test add2
 adddddddd
