@@ -1,4 +1,4 @@
-kuwu
+kuwu  view
 
 test
 test1
@@ -6,3 +6,4 @@ test2
 test add1
 test add2
 adddddddd
+pink
